@@ -1,1 +1,6 @@
-put some footer here
+<footer id="footer">
+	
+</footer>
+<script type="app.js"></script>
+</body>
+</html>
